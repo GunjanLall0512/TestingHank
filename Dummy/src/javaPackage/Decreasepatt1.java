@@ -15,10 +15,8 @@ public class Decreasepatt1 {
 		Decreasepatt1 dec=new Decreasepatt1();
 		System.out.println("After Swap");
 		dec.swap(5, 10);
-		
-		
-		
-
+		int z=1;
+		System.out.println(z);
 	}
 
 }
